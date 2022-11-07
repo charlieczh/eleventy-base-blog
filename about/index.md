@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: 关于我
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: 关于我
   order: 3
 ---
 
-I am a person that writes stuff.
+一名热爱 Java 的程序员
